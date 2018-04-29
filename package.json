@@ -16,6 +16,8 @@
   },
   "homepage": "https://github.com/stasezersky/forumApp#readme",
   "dependencies": {
-    "nsp": "^3.2.1"
+    "express": "^4.16.3",
+    "nsp": "^3.2.1",
+    "open": "0.0.5"
   }
 }
