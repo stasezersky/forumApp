@@ -1,0 +1,19 @@
+{
+  "name": "forumapp",
+  "version": "1.0.0",
+  "description": "a basic forum app based on nodejs and mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stasezersky/forumApp.git"
+  },
+  "author": "stasE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stasezersky/forumApp/issues"
+  },
+  "homepage": "https://github.com/stasezersky/forumApp#readme"
+}
