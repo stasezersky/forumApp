@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stasezersky/forumApp/issues"
   },
-  "homepage": "https://github.com/stasezersky/forumApp#readme"
+  "homepage": "https://github.com/stasezersky/forumApp#readme",
+  "dependencies": {
+    "nsp": "^3.2.1"
+  }
 }
