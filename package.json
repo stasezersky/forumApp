@@ -2,7 +2,6 @@
   "name": "forumapp",
   "version": "1.0.0",
   "description": "a basic forum app based on nodejs and mongo",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
